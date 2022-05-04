@@ -6,4 +6,3 @@ MAINTAINER shubham kumar <shubkum001@gmail.com
 RUN apt-get update
 
 CMD ["echo", "Hello world...! from my second docker image"]
-
